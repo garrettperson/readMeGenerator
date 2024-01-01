@@ -19,7 +19,11 @@
 
   ## Credits
 
-  To create this project I watched a YouTube tutorial on creating a README generator (https://www.youtube.com/watch?v=2VUQABoFOqw), I browsed StackOverflow, consulted with ChatGPT, and received help from a friend who is an experienced coder.
+  To create this project I watched a YouTube tutorial on creating a README generator, I browsed StackOverflow, consulted with ChatGPT, and received help from a friend who is an experienced coder.
+
+  ## Link to video demonstration
+
+  https://drive.google.com/file/d/1xeevfUaYGLH0qBAHN7puRmUyp9lPr3ln/view?usp=sharing
 
   ## License
 
